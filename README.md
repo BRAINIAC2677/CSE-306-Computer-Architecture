@@ -30,7 +30,7 @@ Contains the project resources of the course CSE306. These were group projects. 
         <br>
 <hr>
 
-- ## Project-2 | 'Floating Point Adder'
+- ## Project-2 | `Floating Point Adder`
      - [Problem Specification](/offline-2/problem_spec.pdf)
      - [Report](/offline-2/report.pdf)
      - [Report LaTex](/offline-2/Report)
@@ -38,6 +38,6 @@ Contains the project resources of the course CSE306. These were group projects. 
 
 <hr>
 
-- ## Project-3 | MIPS
+- ## Project-3 | `MIPS`
     - [Problem Specification](/offline-3/problem_spec.pdf)
     - [Atmega codes](/offline-3/Atmega)
